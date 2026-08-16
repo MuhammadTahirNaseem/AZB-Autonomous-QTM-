@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Anti-Zeno Boost in an Autonomous Quantized-Piston Thermal Machine"
+version: 1.0.1
+license: MIT
+type: software
+message: "If you use this software, please cite the archived software record."
+authors:
+  - given-names: "M. Tahir"
+    family-names: "Naseem"
+abstract: "Numerical Python codes used to reproduce the heat-engine, refrigerator, and state-resolved piston-ergotropy figures associated with the manuscript Anti-Zeno Boost in an Autonomous Quantized-Piston Thermal Machine."
+keywords:
+  - quantum thermodynamics
+  - quantum thermal machines
+  - anti-Zeno effect
+  - quantized piston
+  - quantum heat engine
+  - quantum refrigerator
+  - ergotropy
